@@ -1,10 +1,7 @@
 remote_theme: riggraz/no-style-please
 
 plugins:
- - jekyll-remote-theme
+- jekyll-remote-theme
 
-<<<<<<< HEAD
 title: changyo blog
-=======
-title: changyo blog
->>>>>>> HEAD@{1}
+
