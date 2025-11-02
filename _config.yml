@@ -1,0 +1,6 @@
+remote_theme: riggraz/no-style-please
+
+plugins:
+ - jekyll-remote-theme
+
+title: changyo blog
