@@ -6,4 +6,4 @@
     limit: 10
     show_more: true
     show_more_url: /archive
-    show_more_text: "모든 글 보기"
+    show_more_text: "모든 글 보는 버튼"
