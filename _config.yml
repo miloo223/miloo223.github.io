@@ -4,4 +4,5 @@ plugins:
 - jekyll-remote-theme
 
 title: changyo blog
+timezone: Asia/Seoul
 
